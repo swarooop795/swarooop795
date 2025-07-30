@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swarooop795
-- 👩‍💻 I’m interested in programming with Python 
-- ✍️ I’m currently learning Web Development, Data Science 
+- 🐍 I’m interested in programming with Python 
+- 👩‍💻 I’m currently Working on Web Development Projects
 - 📫 How to reach me : swaroopnairy@gmail.com
 - 😄 Pronouns : Swaroop Nairy
 
