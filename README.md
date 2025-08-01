@@ -4,6 +4,7 @@
 - 📫 How to reach me :
   ✉️ Email : swaroopnairy@gmail.com, 🔗 Linkedin : https://www.linkedin.com/in/swaroop-nairy-aa615526a
 - 😄 Pronouns : Swaroop Nairy
+- Portfolio : https://github.com/swarooop795/My_Portfolio.git
 
 <!---
 swarooop795/swarooop795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
