@@ -5,6 +5,8 @@
   ✉️ Email : swaroopnairy@gmail.com, 🔗 Linkedin : https://www.linkedin.com/in/swaroop-nairy-aa615526a
 - 😄 Pronouns : Swaroop Nairy
 - 👨‍🦱 Portfolio : https://github.com/swarooop795/My_Portfolio.git
+  
+Live Link : https://httops.netlify.app/
 - 📄 Resume : https://github.com/swarooop795/RESUME.git
 
 <!---
